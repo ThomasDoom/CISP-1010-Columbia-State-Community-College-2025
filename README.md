@@ -3,7 +3,7 @@
 <div align="center">
   <h4>
     <a href="#-quick-navigation">
-      Quick Navigatioin
+      Quick Navigation
     </a>
     <span> • </span>
     <a href="#-grading">
