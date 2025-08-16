@@ -1,17 +1,5 @@
 ![Columbia State Community College Logo](./images/ColumbiaStateLogo.png)
 
-<div align="center">
-  <h4>
-    <a href="#-quick-navigation">
-      Quick Navigation
-    </a>
-    <span> • </span>
-    <a href="#-grading">
-      Grading
-    </a>
-  </h4>
-</div>
-
 <h1 align="center">
   <br>
   Computer Science 1 Coursework in Java
