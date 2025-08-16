@@ -1,4 +1,17 @@
 ![Columbia State Community College Logo](./images/ColumbiaStateLogo.png)
+
+<div align="center">
+  <h4>
+    <a href="#-quick-navigation">
+      Quick Navigatioin
+    </a>
+    <span> • </span>
+    <a href="#-grading">
+      Grading
+    </a>
+  </h4>
+</div>
+
 <h1 align="center">
   <br>
   Computer Science 1 Coursework in Java
@@ -7,18 +20,6 @@
 
 A showcase of my coursework and projects from **CISP-1010** at Columbia State Community College during the summer of 2025.  
 It demonstrates my progress in **object-oriented programming, algorithm design, problem-solving, and debugging** using Java.  
-
-<div align="center">
-  <h4>
-    <a href="#-table-of-contents">
-      Quick Navigatioin
-    </a>
-    <span> • </span>
-    <a href="#-connect-with-the-cs50-community">
-      Grading
-    </a>
-  </h4>
-</div>
 
 
 ## 📘 Course Information
