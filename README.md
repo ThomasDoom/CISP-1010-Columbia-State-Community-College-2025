@@ -1,4 +1,4 @@
-![Columbia State Community College Logo](./img/)
+![Columbia State Community College Logo](./images/ColumbiaStateLogo.png)
 <h1 align="center">
   <br>
   Computer Science 1 Coursework in Java
