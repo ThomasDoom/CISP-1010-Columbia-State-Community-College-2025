@@ -1,0 +1,13 @@
+Print"Cost of Item?"
+user input = retailPrice
+
+Print"Sales tax rate?"
+user input = salesTax
+
+calculatedSalesTax = retailPrice * salesTax
+Display $calculatedSalesTax
+
+totalPrice = retailPrice + calculatedSalesTax
+Display $totalPrice
+
+

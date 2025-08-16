@@ -1,0 +1,17 @@
+print"Starting Balance: $"
+user input = startingBalance
+
+print"Amount Deposited: $"
+user input = deposited
+
+print"Amount Withdrawn: $"
+user input = withdrawn
+
+print"Monthly Interest Rate: %" 
+user input = monthlyInterest
+
+balance = startingBalance + deposited - withdrawn
+print balance
+
+
+

@@ -1,0 +1,7 @@
+Print"Maximum Credit?"
+store user input = maxCredit
+Print"Credit Amount Used?"
+store user input = usedCredit
+availableUserCredit = maxCredit - usedCredit
+Display availableUserCredit
+
