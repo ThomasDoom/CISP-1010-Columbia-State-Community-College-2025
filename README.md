@@ -10,14 +10,14 @@ A showcase of my coursework and projects from **CISP-1010** at Columbia State Co
 It demonstrates my progress in **object-oriented programming, algorithm design, problem-solving, and debugging** using Java.  
 
 
-## 📘 Course Information
+## Course Information
 - **Professor:** Marvin Johnson Jr.  
 - **Dates:** May 28, 2025 – July 2, 2025  
 - **Textbook:** *Starting Out with Java: Control Structures through Objects* (Revel edition)  
 
 
 
-## 🎯 Skills Developed 
+## Skills Developed 
 - **Programming Fundamentals:** variables, control structures, methods, arrays  
 - **Object-Oriented Programming:** classes, fields, methods, constructors, encapsulation  
 - **Problem Solving:** breaking problems into components, using pseudocode & UML diagrams  
@@ -27,7 +27,7 @@ It demonstrates my progress in **object-oriented programming, algorithm design, 
 
 ---
 
-## 🗂️ Quick Navigation
+## Quick Nav
 
 ### Week 1
 - [Chapter 1](Week%201/Chapter%201/)
@@ -92,7 +92,7 @@ It demonstrates my progress in **object-oriented programming, algorithm design, 
 - [Exam 3b](Week%206/Exam%203b/)
 ---
 
-## 📊 Grading
+## Grading
 - **7 Programming Assignments** – 40% (5.71% each)  
 - **3 Exams (two parts each)** – 30% (5% each part)  
 - **7 Chapter Quizzes** – 10% (1.43% each)  
